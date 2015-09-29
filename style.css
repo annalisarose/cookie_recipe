@@ -1,0 +1,22 @@
+body {
+	background-color: #FFE;
+}
+
+img {
+	border:3px solid #000000;
+}
+
+h2 {
+	color: #887;
+	font-size: 14pt
+}
+
+h3 {
+	font-family: "Arial";
+	font-size: 24px;
+	font-weight: bold;
+}
+
+a {
+	color: #900
+}
